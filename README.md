@@ -188,7 +188,7 @@ obtenemos el siguiente detalle:
 # Recomendación
 
 Para el análisis de tiendas he definido la siguiente metodología de evaluación
-Se establece un sistema de ranking otorgando 4 pts a la tienda con mejor desempeño en cada variable Numérica:
+Se establece un sistema de ranking otorgando 4 pts a la tienda con mejor desempeño y 1 pt al peor desempeño en cada variable Numérica:
 * Ingresos Totales
 * Rentabilidad por Tienda
 * Costo de Envío Promedio
