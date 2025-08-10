@@ -186,3 +186,18 @@ obtenemos el siguiente detalle:
 <img width="722" height="448" alt="image" src="https://github.com/user-attachments/assets/9d8499ee-4d10-4a37-8163-85a7206ffaba" />
 
 # Recomendación
+
+Para el análisis de tiendas he definido la siguiente metodología de evaluación
+Se establece un sistema de ranking otorgando 4 pts a la tienda con mejor desempeño en cada variable Numérica:
+* Ingresos Totales
+* Rentabilidad por Tienda
+* Costo de Envío Promedio
+* Calificación Promedio (Satisfacción)
+
+Para las variables categóricas  aplicaremos la misma metodología para ingresos por categoría y tienda, acotando a las 2 categorías mas influyentes, electrodomeésticos y electrónicos.
+
+De lo anterior el resultado se aprecia en la siguiente tabla
+<img width="1047" height="124" alt="image" src="https://github.com/user-attachments/assets/d2567353-1ead-48b9-a835-3028a0009fb1" />
+
+** En Conclusión se recomienda al Sr. Juan Vender la Tienda 4**
+
