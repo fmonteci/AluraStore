@@ -199,5 +199,5 @@ Para las variables categóricas  aplicaremos la misma metodología para ingresos
 De lo anterior el resultado se aprecia en la siguiente tabla
 <img width="1047" height="124" alt="image" src="https://github.com/user-attachments/assets/d2567353-1ead-48b9-a835-3028a0009fb1" />
 
-** En Conclusión se recomienda al Sr. Juan Vender la Tienda 4**
+**En Conclusión se recomienda al Sr. Juan Vender la Tienda 4**
 
